@@ -33,6 +33,8 @@ export default function Home() {
       <Header />
       <PostPreview />
       <PostPreview />
+
+      <span className={styles.load}>Carregar mais posts</span>
     </div>
   )
 }

@@ -5,4 +5,15 @@
   gap: 2rem;
   margin: 0 auto;
   width: min(90vw, 800px);
+
+  .load {
+    display: block;
+    width: 400px;
+    margin-top: 2rem;
+    font-weight: 500;
+    font-size: 1.125rem;
+    cursor: pointer;
+    color: var(--highlight);
+    text-align: left;
+  }
 }
