@@ -1,0 +1,61 @@
+{
+  "id": "3afe24ef-bac9-4dd7-9c3e-6f09ae0b7f68",
+  "uid": "aliquid-necessitatibus-officia",
+  "type": "posts-id",
+  "data": {
+    "title": "drive dot-com infomediaries",
+    "subtitle": "facilitate compelling networks",
+    "author": "reinvent plug-and-play systems",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1576662712957-9c79ae1280f8?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "architect user-centric paradigms",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Do tempor commodo eu ullamco amet Lorem. Lorem in sunt ea ullamco non pariatur eiusmod qui labore proident ipsum consectetur officia dolore. Ea mollit nostrud ullamco magna deserunt.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "incubate open-source networks",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Qui proident occaecat excepteur incididunt sunt aute nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "integrate sexy experiences",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Fugiat sint ipsum laborum officia culpa ipsum do ullamco reprehenderit pariatur duis ut enim non amet. Ipsum qui velit amet. Commodo laboris consequat eiusmod qui qui qui velit labore laborum duis cupidatat cupidatat anim sit.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "benchmark strategic metrics",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ipsum id ad ad veniam laboris labore cupidatat proident velit magna ut. Culpa dolore duis voluptate quis cupidatat sit commodo adipisicing commodo occaecat irure proident officia Lorem sunt.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -37,11 +37,19 @@ export default function Home() {
       <span className={styles.load}>Carregar mais posts</span>
     </div>
   )
-}
+} 
 
-// export const getStaticProps = async () => {
-//   // const prismic = getPrismicClient({});
-//   // const postsResponse = await prismic.getByType(TODO);
+export const getStaticProps = async () => {
+  const prismic = getPrismicClient({});
+  const postsResponse = await prismic.getByType("posts-id", {
+    pageSize: 20
+  });
 
-//   // TODO
-// };
+  console.log(postsResponse);
+
+  return {
+    props: {
+
+    }
+  }
+};
